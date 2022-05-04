@@ -9,7 +9,7 @@
 - Seaborn
 - Matplotlib
 
-## [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+## Download ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 - [Download Jupyter Notebook Document for Singapore Private Residential Property Prices Prediction, using Machine Learning]
 
