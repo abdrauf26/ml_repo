@@ -44,7 +44,7 @@
 - [Conda](https://docs.conda.io/en/latest/)
 - [Anaconda](https://anaconda.org/)
 - [Pixabay](https://pixabay.com/)
-- [URA - Private Residential Property Transactions](https://www.ura.gov.sg/realEstateIIWeb/transaction/search.action)
+- [API Reference - Urban Redevelopment Authority](https://www.ura.gov.sg/maps/api/)
 - [Github](https://github.com/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [Jupyter nbviewer](https://nbviewer.org/)
