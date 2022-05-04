@@ -24,7 +24,14 @@
 
 ![image](https://user-images.githubusercontent.com/96287600/166636091-daff915d-5ee1-46ed-ba65-f5b1b276608f.png)
 
-1. 
+1. [Pairplot](https://drive.google.com/file/d/1W2xiSReQyhBYRtQXmw5BnDtVdclD_yeV/view?usp=sharing)
+2. [Visualization - Features (X) versus target(Y)](https://drive.google.com/file/d/16DGI6IUSErrA6hGgjUiPfhnvOD1tRe11/view?usp=sharing)
+3. [SNS Plot - price versus area](https://drive.google.com/file/d/197fgPQ7aqbLRws-B6Jx16vn_TUkcWrfq/view?usp=sharing)
+4. [SNS Plot - number of units versus  year price](https://drive.google.com/file/d/10H0Uevy1oNHh_2IPrC3vqLLZ7JLF--Ie/view?usp=sharing)
+5. [Boxplot - checking for outliers](https://drive.google.com/file/d/1tiWkzeSy4iTmb2GNJbozGrdSYmSkMfEI/view?usp=sharing)
+6. [Feature Importance Scores](https://drive.google.com/file/d/1azXgEQjEFzjKooqYLglNyVNpCeydzU0b/view?usp=sharing)
+7. [Multiple Linear Regressions Predictions](https://drive.google.com/file/d/1KUWxsaTp0QjO_rPcJjBYgFwif8SyJGYv/view?usp=sharing)
+8. [Sequential forward selection with Standard Deviation](https://drive.google.com/file/d/1xLCZ2RYibDoC-FPC7-JrjhcKCdWDXFxz/view?usp=sharing)
 
 
 ## Social 📧 
