@@ -33,6 +33,7 @@
 
 ## Acknowledgements
 
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [Conda](https://docs.conda.io/en/latest/)
 - [Anaconda](https://anaconda.org/)
 - [Pixabay](https://pixabay.com/)
