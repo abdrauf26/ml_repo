@@ -11,7 +11,7 @@
 
 ## Download ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- [Download Jupyter Notebook Document for Singapore Private Residential Property Prices Prediction, using Machine Learning]
+- [Download Jupyter Notebook Document for Singapore Private Residential Property Prices Prediction, using Machine Learning](https://nbviewer.org/github/abdrauf26/ml_repo/blob/main/How%20to%20predict%20Singapore%20Private%20Residential%20Property%20Prices%2C%20%20using%20Machine%20Learning.ipynb)
 
 ## Dataset 📊
 
