@@ -11,14 +11,14 @@
 
 ## Download ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- [Download Jupyter Notebook Document for Singapore Private Residential Property Prices Prediction, using Machine Learning](https://github.com/abdrauf26/ml_repo/blob/main/sgp_private_res_pty_prices_using_ml.ipynb)
+- [Download Jupyter Notebook Document for Predicting Singapore Private Residential Property Prices Prediction, using Machine Learning](https://github.com/abdrauf26/ml_repo/blob/main/sgp_private_res_pty_prices_using_ml.ipynb)
 
 ## Dataset 📊
 
-- [Download dataset for Singapore Private Residential Property Prices Prediction, using Machine Learning](https://drive.google.com/file/d/1Y0Z7Q3m4wbVzXQnlx_PUB1lU2hFKrUWG/view?usp=sharing)
+- [Download dataset for Predicting Singapore Private Residential Property Prices Prediction, using Machine Learning](https://drive.google.com/file/d/1Y0Z7Q3m4wbVzXQnlx_PUB1lU2hFKrUWG/view?usp=sharing)
 
 ## Project Insights 📖
-- [Download presentation slides for Singapore Private Residential Property Prices Prediction, using Machine Learning](https://docs.google.com/presentation/d/10fq4-VuZtkbvtxuQqAcQDs3Lmq0R8Vcp4kGXh-xx6XU/edit?usp=sharing)
+- [Download presentation slides for Predicting Singapore Private Residential Property Prices Prediction, using Machine Learning](https://docs.google.com/presentation/d/10fq4-VuZtkbvtxuQqAcQDs3Lmq0R8Vcp4kGXh-xx6XU/edit?usp=sharing)
 
 ## Data Visualization 📉
 
