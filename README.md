@@ -18,7 +18,7 @@
 - [Download dataset for Singapore Private Residential Property Prices Prediction, using Machine Learning](https://drive.google.com/file/d/1Y0Z7Q3m4wbVzXQnlx_PUB1lU2hFKrUWG/view?usp=sharing)
 
 ## Project Insights 📖
-- [Download presentation slides for Singapore Private Residential Property Prices Prediction, using Machine Learning](https://docs.google.com/presentation/d/1ET4QuU3rw1H6sIlrdNJsKYY_wXfHHIdZ/edit?usp=sharing&ouid=103017552373274414032&rtpof=true&sd=true)
+- [Download presentation slides for Singapore Private Residential Property Prices Prediction, using Machine Learning](https://docs.google.com/presentation/d/10fq4-VuZtkbvtxuQqAcQDs3Lmq0R8Vcp4kGXh-xx6XU/edit?usp=sharing)
 
 ## Data Visualization 📉
 
